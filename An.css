@@ -1,0 +1,482 @@
+body {
+  background-image: url(images/Malacca.jpg);
+}
+
+.form {
+  margin: 50px auto;
+  width: 300px;
+  padding: 30px 25px;
+  background: peachpuff;
+  border-radius: 30px;
+}
+h1.login-title {
+  color: #666;
+  margin: 0px auto 25px;
+  font-size: 25px;
+  font-weight: 300;
+  text-align: center;
+}
+.login-input {
+  font-size: 15px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 25px;
+  height: 25px;
+  width: calc(100% - 23px);
+}
+.login-input:focus {
+  border-color: #6e8095;
+  outline: none;
+}
+.login-button {
+  color: #fff;
+  background: brown;
+  border: 0;
+  outline: 0;
+  width: 100%;
+  height: 50px;
+  font-size: 16px;
+  text-align: center;
+  cursor: pointer;
+}
+.link {
+  color: rosybrown;
+  font-size: 15px;
+  text-align: center;
+  margin-bottom: 0px;
+}
+.link a {
+  color: rosybrown;
+}
+
+h3 {
+  font-weight: normal;
+  text-align: center;
+}
+
+/* akar-icons:arrow-left */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1326px;
+top: 759px;
+
+/* akar-icons:arrow-right */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1371px;
+top: 759px;
+
+/* Capture 1 */
+
+position: absolute;
+width: 1440px;
+height: 41.31px;
+left: 0px;
+top: 0px;
+
+background: url(Capture.png);
+
+/* 1 1 */
+
+position: absolute;
+width: 252px;
+height: 798px;
+left: 0px;
+top: 41px;
+
+background: url(1.png);
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 70px;
+height: 72px;
+left: 9px;
+top: 45px;
+
+background: #c4c4c4;
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 56px;
+height: 13px;
+left: 126px;
+top: 45px;
+
+background: #8a8b8f;
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 88px;
+height: 13px;
+left: 119px;
+top: 62px;
+
+background: #8a8b8f;
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 88px;
+height: 13px;
+left: 82px;
+top: 77px;
+
+background: #8a8b8f;
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 353px;
+height: 508px;
+left: 277px;
+top: 173px;
+
+background: #ffffff;
+border: 1px solid #8a8b8f;
+box-sizing: border-box;
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 362px;
+height: 508px;
+left: 661px;
+top: 173px;
+
+background: #ffffff;
+border: 1px solid #8a8b8f;
+box-sizing: border-box;
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 362px;
+height: 508px;
+left: 1051px;
+top: 173px;
+
+background: #ffffff;
+border: 1px solid #8a8b8f;
+box-sizing: border-box;
+
+/* Latest Announcements */
+
+position: absolute;
+width: 240px;
+height: 30px;
+left: 720px;
+top: 102px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 353px;
+height: 289px;
+left: 277px;
+top: 173px;
+
+background: url(MicrosoftTeams-image(5).jpg);
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 362px;
+height: 289px;
+left: 661px;
+top: 173px;
+
+background: url(image.png);
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 362px;
+height: 289px;
+left: 1051px;
+top: 173px;
+
+background: url(image.png);
+
+/* TAKWIM AKADEMIK SARJANA MUDA SESI AKADEMIK 2021/2022 */
+
+position: absolute;
+width: 308px;
+height: 173px;
+left: 686px;
+top: 483px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 39px;
+
+color: #000000;
+
+/* MAKLUMAN PENGEMASKINIAN NOMBOR TELEFON BIMBIT PELAJAR */
+
+position: absolute;
+width: 302px;
+height: 144px;
+left: 1081px;
+top: 483px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 39px;
+
+color: #000000;
+
+/* Featured Announcements */
+
+position: absolute;
+width: 310px;
+height: 33px;
+left: 280px;
+top: 749px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 30px;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 1205px;
+height: 153px;
+left: 277px;
+top: 823px;
+
+background: rgba(196, 196, 196, 0.38);
+border: 1px solid #ffffff;
+box-sizing: border-box;
+
+/* Rectangle 16 */
+
+position: absolute;
+width: 156px;
+height: 149px;
+left: 279px;
+top: 827px;
+
+background: url(WhatsApp Image 2021-12-13 at 11.08.jpg);
+
+/* Rectangle 17 */
+
+position: absolute;
+width: 154px;
+height: 153px;
+left: 783px;
+top: 823px;
+
+background: url(web programming.jpg);
+
+/* Bengkel Online Rekagrafik Photoshop */
+
+position: absolute;
+width: 267px;
+height: 60px;
+left: 453px;
+top: 839px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+
+color: #000000;
+
+/* Sertai bengkel yang diadakan pada 18 Disember 2021. Daftar di sini. */
+
+position: absolute;
+width: 302px;
+height: 50px;
+left: 456px;
+top: 913px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 22px;
+
+color: #877878;
+
+/* WI - CAN 2021 Web Programming */
+
+position: absolute;
+width: 267px;
+height: 60px;
+left: 964px;
+top: 839px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+
+color: #000000;
+
+/* Widyatama International Academic Competitions and Exhibition */
+
+position: absolute;
+width: 302px;
+height: 50px;
+left: 964px;
+top: 913px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 22px;
+
+color: #877878;
+
+/* Rectangle 18 */
+
+position: absolute;
+width: 156px;
+height: 153px;
+left: 1284px;
+top: 825px;
+
+background: url(university-student-cap-mortar-board-diploma_3446-334.jpg);
+
+/* Rectangle 19 */
+
+position: absolute;
+width: 1191px;
+height: 42px;
+left: 249px;
+top: 39px;
+
+background: #523fc6;
+
+/* Rectangle 20 */
+
+position: absolute;
+width: 421px;
+height: 30px;
+left: 267px;
+top: 45px;
+
+background: #bdbdbd;
+mix-blend-mode: overlay;
+border-radius: 9px;
+
+/* Rectangle 21 */
+
+position: absolute;
+width: 421px;
+height: 30px;
+left: 706px;
+top: 45px;
+
+background: #bdbdbd;
+mix-blend-mode: overlay;
+border-radius: 9px;
+
+/* NOTIS PENGISYTIHARAN AHLI MAJLIS PERWAKILAN PELAJAR 2021 */
+
+position: absolute;
+width: 409px;
+height: 30px;
+left: 277px;
+top: 45px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 15px;
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* TAKWIM AKADEMIK SARJANA MUDA SESI AKADEMIK 2021/2022 */
+
+position: absolute;
+width: 393px;
+height: 32px;
+left: 724px;
+top: 45px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 15px;
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* MAKLUMAN PENGEMASKINIAN NOMBOR TELEFON BIMBIT */
+
+position: absolute;
+width: 393px;
+height: 32px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 15px;
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* Rectangle 22 */
+
+position: absolute;
+width: 421px;
+height: 30px;
+
+background: #bdbdbd;
+mix-blend-mode: overlay;
+border-radius: 9px;
+
+/* NOTIS PENGISYTIHARAN AHLI MAJLIS PERWAKILAN PELAJAR 2021 */
+
+position: absolute;
+width: 308px;
+height: 173px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 39px;
+
+color: #000000;
